@@ -1,1 +1,41 @@
-~)^�+-zo�
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title><![CDATA[The Industrial Intelligence Briefing]]></title>
+		<description><![CDATA[The essential briefing for industrial leaders. From the analysts at Industrial Intelligence Daily, we dissect the real-world impact of AI, automation, and strategy on manufacturing, logistics, and your bottom line. No hype, just actionable intelligence to help you build a more resilient and profitable business.]]></description>
+		<link>https://podcasters.spotify.com/pod/show/industrial-intelligence-d</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Thu, 04 Sep 2025 20:57:41 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/1089997d4/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Industrial Intelligence Daily]]></author>
+		<copyright><![CDATA[Industrial Intelligence Daily]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Industrial Intelligence Daily</itunes:author>
+		<itunes:summary>The essential briefing for industrial leaders. From the analysts at Industrial Intelligence Daily, we dissect the real-world impact of AI, automation, and strategy on manufacturing, logistics, and your bottom line. No hype, just actionable intelligence to help you build a more resilient and profitable business.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Industrial Intelligence Daily</itunes:name>
+			<itunes:email>contact@iidaily.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Business"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44292509/44292509-1755955859363-d9ccc5227401a.jpg"/>
+		<item>
+			<title><![CDATA[Ep1 - Generative Digital Twins: A Manufacturing Blueprint for 334% ROI]]></title>
+			<description><![CDATA[<p>Small and medium-sized manufacturers are navigating a brutal economic landscape. Persistent inflation is squeezing margins, volatile global supply chains are a constant threat to production, and a persistent skilled labor shortage makes improving productivity a monumental challenge. In this environment, incremental gains are not enough to guarantee survival, let alone secure market leadership. Our definitive new blueprint for industrial leaders, "The Generative Digital Twin," puts forth a transformational and data-backed path forward.</p><p>This analysis presents the compelling business case for what we identify as the single most powerful platform available to mitigate these risks and unlock new growth. It positions the technology not as a simple software upgrade, but as an entirely new operational paradigm. The central takeaway for any executive is clear: the time for viewing this technology as a future concept is over.</p><p></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/industrial-intelligence-d/episodes/Ep1---Generative-Digital-Twins-A-Manufacturing-Blueprint-for-334-ROI-e377c2p</link>
+			<guid isPermaLink="false">eb2314a2-ef54-4a62-b92c-cbd4c5a14c90</guid>
+			<dc:creator><![CDATA[Industrial Intelligence Daily]]></dc:creator>
+			<pubDate>Sat, 23 Aug 2025 13:33:28 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1089997d4/podcast/play/107245081/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-23%2F8ede2d8f-0746-eb7b-d29a-09ef7fada196.m4a" length="38368397" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Small and medium-sized manufacturers are navigating a brutal economic landscape. Persistent inflation is squeezing margins, volatile global supply chains are a constant threat to production, and a persistent skilled labor shortage makes improving productivity a monumental challenge. In this environment, incremental gains are not enough to guarantee survival, let alone secure market leadership. Our definitive new blueprint for industrial leaders, &quot;The Generative Digital Twin,&quot; puts forth a transformational and data-backed path forward.&lt;/p&gt;&lt;p&gt;This analysis presents the compelling business case for what we identify as the single most powerful platform available to mitigate these risks and unlock new growth. It positions the technology not as a simple software upgrade, but as an entirely new operational paradigm. The central takeaway for any executive is clear: the time for viewing this technology as a future concept is over.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:19:52</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/44292509/44292509-1756050239551-1413fb82d6687.jpg"/>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
